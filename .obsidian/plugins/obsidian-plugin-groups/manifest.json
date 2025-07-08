@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-plugin-groups",
+    "name": "Plugin Groups",
+    "version": "2.1.0",
+    "minAppVersion": "0.15.0",
+    "description": "通过组管理你的插件：通过单个命令启用和禁用多个插件，或者延迟插件的启动以加快 Obsidian 的启动时间",
+    "author": "Mocca101",
+    "authorUrl": "https://github.com/Mocca101",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://www.buymeacoffee.com/Mocca101"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "obsidian42-brat",
+    "name": "BRAT",
+    "version": "1.1.7",
+    "minAppVersion": "1.7.2",
+    "description": "轻松安装插件的测试版进行测试。",
+    "author": "TfTHacker",
+    "authorUrl": "https://github.com/TfTHacker/obsidian42-brat",
+    "helpUrl": "https://tfthacker.com/BRAT",
+    "isDesktopOnly": false,
+    "fundingUrl": {
+        "Visit my site": "https://tfthacker.com"
+    }
+}
